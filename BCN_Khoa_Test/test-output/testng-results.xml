@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-04T20:04:16 ICT" name="Default suite" finished-at="2024-06-04T20:06:04 ICT" duration-ms="107975">
+    <groups>
+    </groups>
+    <test started-at="2024-06-04T20:04:16 ICT" name="Default test" finished-at="2024-06-04T20:06:04 ICT" duration-ms="107975">
+      <class name="BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG">
+        <test-method is-config="true" signature="Main()[pri:0, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:04:16 ICT" name="Main" finished-at="2024-06-04T20:04:33 ICT" duration-ms="17268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Main -->
+        <test-method signature="Login()[pri:0, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:04:33 ICT" name="Login" finished-at="2024-06-04T20:04:36 ICT" duration-ms="3600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="User()[pri:1, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:04:36 ICT" name="User" finished-at="2024-06-04T20:04:41 ICT" duration-ms="4993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User -->
+        <test-method signature="Create()[pri:2, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:04:41 ICT" name="Create" finished-at="2024-06-04T20:05:02 ICT" duration-ms="20433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create -->
+        <test-method signature="Search()[pri:3, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:02 ICT" name="Search" finished-at="2024-06-04T20:05:06 ICT" duration-ms="3827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="Update()[pri:4, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:06 ICT" name="Update" finished-at="2024-06-04T20:05:20 ICT" duration-ms="13903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Update -->
+        <test-method signature="User1()[pri:5, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:20 ICT" name="User1" finished-at="2024-06-04T20:05:22 ICT" duration-ms="2410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User1 -->
+        <test-method signature="Search1()[pri:6, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:22 ICT" name="Search1" finished-at="2024-06-04T20:05:24 ICT" duration-ms="2348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search1 -->
+        <test-method signature="Lock()[pri:7, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:24 ICT" name="Lock" finished-at="2024-06-04T20:05:32 ICT" duration-ms="7546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lock -->
+        <test-method signature="User2()[pri:8, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:32 ICT" name="User2" finished-at="2024-06-04T20:05:34 ICT" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User2 -->
+        <test-method signature="Search2()[pri:9, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:34 ICT" name="Search2" finished-at="2024-06-04T20:05:37 ICT" duration-ms="2377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search2 -->
+        <test-method signature="Unlock()[pri:10, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:37 ICT" name="Unlock" finished-at="2024-06-04T20:05:45 ICT" duration-ms="8484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unlock -->
+        <test-method signature="User3()[pri:11, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:45 ICT" name="User3" finished-at="2024-06-04T20:05:48 ICT" duration-ms="2427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User3 -->
+        <test-method signature="Search3()[pri:12, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:48 ICT" name="Search3" finished-at="2024-06-04T20:05:50 ICT" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search3 -->
+        <test-method signature="Delete()[pri:13, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:50 ICT" name="Delete" finished-at="2024-06-04T20:05:57 ICT" duration-ms="6626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG@11392934]" started-at="2024-06-04T20:05:57 ICT" name="tearDown" finished-at="2024-06-04T20:06:04 ICT" duration-ms="6927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- BCNK_User_AutoTest.Updatecode_Create_Search_Update_Lock_Unlock_Delete_USER_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
